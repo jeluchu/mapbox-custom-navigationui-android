@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#33C377</color>
+    <color name="colorPrimaryDark">#FF218450</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="mapboxWhite">#ffffff</color>
+    <color name="mapboxBlue">#4264fb</color>
+    <color name="mapboxGrayLight">#c6d2e1</color>
+    <color name="mapboxPink">#ee4e8b</color>
+    <color name="mapboxYellow">#d9d838</color>
+    <color name="mapboxRed">#b43b71</color>
+
+    <color name="mapbox_navigation_view_color_list_background">#FFFFFF</color>
+    <color name="mapbox_navigation_view_color_banner_background">#FFFFFF</color>
+    <color name="mapbox_navigation_view_color_banner_primary_text">@color/colorPrimary</color>
+    <color name="mapbox_navigation_view_color_banner_secondary_text">@color/colorPrimaryDark</color>
+    <color name="mapbox_navigation_view_color_banner_maneuver_primary">@color/colorPrimary</color>
+</resources>
